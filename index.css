@@ -1,0 +1,33 @@
+.page {
+    padding: 15px 20px;
+}
+
+.block-1 {
+     display: flex;
+     gap: 20px;
+     height: 124px;
+     margin-bottom: 20px;
+}
+
+.block-2 {
+    display: flex;
+    gap: 20px;
+    height: 124px;
+    margin-bottom: 20px;
+}
+
+.card {
+    padding: 12px;
+    border-radius: 12px;
+    background: #F0F0F0;
+    box-sizing: border-box;
+}
+
+.header-text {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.avatar-container, .personal-info, .languages-info {
+    height: 100%;
+}
